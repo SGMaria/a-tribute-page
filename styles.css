@@ -1,0 +1,46 @@
+body {
+  background-color:  rgba(193,154,107,0.6);
+}
+
+.title {
+  text-align: center;
+  font-family: Georgia, sans-serif;
+  margin: 10px 0;
+}
+
+#img-div {
+  text-align: center;
+  margin: 0 auto;
+}
+
+#image {
+  object-fit: contain;
+  width: 100%;
+  height: auto;
+  display: block;
+  max-width: 100%;
+}
+#img-caption, #img-caption-2 {
+  margin: 10px 0;
+  font-size: 1.1rem;
+}
+
+.italic, #main > p > span  {
+  font-style: italic;
+}
+
+#tribute-info {
+  padding: 0px 30px;
+  font-size: 1.2rem;
+  margin: 0;
+  text-align: justify;
+  text-indent: 3%;
+}
+
+#summary-title {
+  margin: 0;
+}
+
+.bottom {
+  margin: 25px 0;
+}
